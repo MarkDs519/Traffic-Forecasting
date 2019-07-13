@@ -8,4 +8,5 @@ A simple ARIMA model which forecasts the traffic count for a set of 7 months.
 ![valid](https://user-images.githubusercontent.com/26629945/61175760-ab7a1580-a5d6-11e9-818a-cbf773c2de33.JPG)
 
 # Prediction for the next 7 months
+![pre](https://user-images.githubusercontent.com/26629945/61175769-c8164d80-a5d6-11e9-83fa-fca57058732e.JPG)
 
